@@ -167,7 +167,7 @@ MIT License
 
 If you use this code, please cite:
 
-Mok, W. H., et al. (2026). *TC-Parametric-Model* (Version 1.0.0) [Software]. Zenodo. [placeholder: https://doi.org/10.5281/zenodo.XXXXXX]
+Mok, W. H., et al. (2026). *TC-Parametric-Model* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.20590460
 
 ## Contact
 
