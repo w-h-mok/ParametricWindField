@@ -2,7 +2,9 @@
 
 # TC-Parametric-Model
 
-Code for real-time parametric modelling of tropical cyclone wind and pressure fields.
+Code for real-time parametric modelling of tropical cyclone wind and pressure fields for the journal article Real-Time Parametric Modelling of Tropical Cyclones using Local Measurements from Ground-Level Stations and Real-Time Tropical Cyclone Reports
+
+
 
 ## Overview
 
